@@ -1,0 +1,30 @@
+{
+    "com.github.ghostdevv.ulauncher-tailscale": {
+        "id": "com.github.ghostdevv.ulauncher-tailscale",
+        "url": "https://github.com/ghostdevv/ulauncher-tailscale",
+        "updated_at": "2025-08-27T17:23:21.538418",
+        "last_commit": "5f4a43359e1df1f0c9b79104e8c006cdfead0903",
+        "last_commit_time": "2025-06-16T05:45:50"
+    },
+    "com.github.tchar.ulauncher-albert-calculate-anything": {
+        "id": "com.github.tchar.ulauncher-albert-calculate-anything",
+        "url": "https://github.com/tchar/ulauncher-albert-calculate-anything",
+        "updated_at": "2025-08-27T17:43:07.680377",
+        "last_commit": "037965a44e6f6f496e7ad71ec1651b9edfcde32d",
+        "last_commit_time": "2024-05-29T21:57:26"
+    },
+    "com.github.rkarami.ulauncher-password-generator": {
+        "id": "com.github.rkarami.ulauncher-password-generator",
+        "url": "https://github.com/rkarami/ulauncher-password-generator",
+        "updated_at": "2025-08-27T17:50:21.955200",
+        "last_commit": "dd835041f81a0821e6398d3ab817847d93af615f",
+        "last_commit_time": "2019-09-27T21:34:17"
+    },
+    "com.github.ralcaidev.ulauncher-extension-list": {
+        "id": "com.github.ralcaidev.ulauncher-extension-list",
+        "url": "https://github.com/ralcaidev/ulauncher-extension-list",
+        "updated_at": "2025-08-27T17:50:50.297950",
+        "last_commit": "27d65fae4abc036e37a09792c8244287017dbc73",
+        "last_commit_time": "2022-11-10T16:06:26"
+    }
+}
