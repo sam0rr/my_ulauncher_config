@@ -104,7 +104,7 @@
         "name": "color_picker",
         "keyword": "color_picker",
         "cmd": "fish -c \"color_picker\"",
-        "icon": "/usr/share/icons/hicolor/48x48/apps/gnome-color-manager.png",
+        "icon": "/usr/share/icons/color_picker.png",
         "is_default_search": false,
         "run_without_argument": true,
         "added": 1763346976.5875154
