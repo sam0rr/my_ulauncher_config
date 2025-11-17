@@ -1,44 +1,4 @@
 {
-    "4e65c187-fc57-4a5c-a6a8-70569570b811": {
-        "id": "4e65c187-fc57-4a5c-a6a8-70569570b811",
-        "name": "Google Search",
-        "keyword": "g",
-        "cmd": "https://google.com/search?q=%s",
-        "icon": "/usr/share/ulauncher/media/google-search-icon.png",
-        "is_default_search": true,
-        "run_without_argument": false,
-        "added": 1756329598.1252959
-    },
-    "c507be8e-f75e-440d-96ce-85617e10dbd4": {
-        "id": "c507be8e-f75e-440d-96ce-85617e10dbd4",
-        "name": "Stack Overflow",
-        "keyword": "so",
-        "cmd": "https://stackoverflow.com/search?q=%s",
-        "icon": "/usr/share/ulauncher/media/stackoverflow-icon.svg",
-        "is_default_search": true,
-        "run_without_argument": false,
-        "added": 1756329598.1253126
-    },
-    "739b72dc-ea74-4e77-aa7d-7a811c7e8c90": {
-        "id": "739b72dc-ea74-4e77-aa7d-7a811c7e8c90",
-        "name": "Wikipedia",
-        "keyword": "wiki",
-        "cmd": "https://en.wikipedia.org/wiki/%s",
-        "icon": "/usr/share/ulauncher/media/wikipedia-icon.png",
-        "is_default_search": true,
-        "run_without_argument": false,
-        "added": 1756329598.1253233
-    },
-    "4aa17676-a8a8-4493-835f-f39e4578707b": {
-        "id": "4aa17676-a8a8-4493-835f-f39e4578707b",
-        "name": "docker",
-        "keyword": "docker",
-        "cmd": "firefox --private-window https://localhost:9443/#!/home",
-        "icon": "/usr/share/icons/docker.png",
-        "is_default_search": false,
-        "run_without_argument": true,
-        "added": 1756428982.18536
-    },
     "6edbf5e0-9475-4607-85e2-76051d4fa9b4": {
         "id": "6edbf5e0-9475-4607-85e2-76051d4fa9b4",
         "name": "linear",
@@ -58,16 +18,6 @@
         "is_default_search": false,
         "run_without_argument": true,
         "added": 1757386527.1661034
-    },
-    "c18b9669-0699-4b74-bde4-8f1a042d88dc": {
-        "id": "c18b9669-0699-4b74-bde4-8f1a042d88dc",
-        "name": "snapchat",
-        "keyword": "snapchat",
-        "cmd": "https://www.snapchat.com/web",
-        "icon": "/usr/share/icons/snapchat.png",
-        "is_default_search": false,
-        "run_without_argument": true,
-        "added": 1757468355.626107
     },
     "1613a2b9-6f8c-46ce-b3aa-12d3b7898c80": {
         "id": "1613a2b9-6f8c-46ce-b3aa-12d3b7898c80",
@@ -129,24 +79,34 @@
         "run_without_argument": true,
         "added": 1758044502.606431
     },
-    "c5f47bd7-0fd8-4d7f-bf9f-d17e5f79c287": {
-        "id": "c5f47bd7-0fd8-4d7f-bf9f-d17e5f79c287",
-        "name": "localhost --unsafe",
-        "keyword": "localhost --unsafe",
-        "cmd": "firefox --private-window https://localhost",
-        "icon": "/usr/share/icons/localhost.png",
-        "is_default_search": false,
-        "run_without_argument": true,
-        "added": 1760730178.0115597
-    },
     "651ed81b-f44b-48eb-a60b-c6aebb3ab6f7": {
         "id": "651ed81b-f44b-48eb-a60b-c6aebb3ab6f7",
-        "name": "localhost --safe",
-        "keyword": "localhost --safe",
-        "cmd": "firefox https://localhost",
+        "name": "localhost --https",
+        "keyword": "localhost --https",
+        "cmd": "https://localhost",
         "icon": "/usr/share/icons/localhost.png",
         "is_default_search": false,
         "run_without_argument": true,
         "added": 1760733646.1089864
+    },
+    "583b074f-4676-4ca9-9810-5638d0397ed3": {
+        "id": "583b074f-4676-4ca9-9810-5638d0397ed3",
+        "name": "localhost --http",
+        "keyword": "localhost --http",
+        "cmd": "http://localhost",
+        "icon": "/usr/share/icons/localhost.png",
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1762995986.4584043
+    },
+    "bd52ae74-2c48-4ba0-9b33-720da1af3383": {
+        "id": "bd52ae74-2c48-4ba0-9b33-720da1af3383",
+        "name": "color_picker",
+        "keyword": "color_picker",
+        "cmd": "fish -c \"color_picker\"",
+        "icon": "/usr/share/icons/hicolor/48x48/apps/gnome-color-manager.png",
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1763346976.5875154
     }
 }

@@ -6,13 +6,6 @@
         "last_commit": "5f4a43359e1df1f0c9b79104e8c006cdfead0903",
         "last_commit_time": "2025-06-16T05:45:50"
     },
-    "com.github.tchar.ulauncher-albert-calculate-anything": {
-        "id": "com.github.tchar.ulauncher-albert-calculate-anything",
-        "url": "https://github.com/tchar/ulauncher-albert-calculate-anything",
-        "updated_at": "2025-11-06T00:42:00.628846",
-        "last_commit": "037965a44e6f6f496e7ad71ec1651b9edfcde32d",
-        "last_commit_time": "2024-05-29T21:57:26"
-    },
     "com.github.rkarami.ulauncher-password-generator": {
         "id": "com.github.rkarami.ulauncher-password-generator",
         "url": "https://github.com/rkarami/ulauncher-password-generator",
