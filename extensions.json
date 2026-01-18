@@ -19,5 +19,12 @@
         "updated_at": "2025-11-06T00:42:02.982424",
         "last_commit": "27d65fae4abc036e37a09792c8244287017dbc73",
         "last_commit_time": "2022-11-10T16:06:26"
+    },
+    "com.github.kcoovi.ulauncher-link-opener": {
+        "id": "com.github.kcoovi.ulauncher-link-opener",
+        "url": "https://github.com/kcoovi/ulauncher-link-opener",
+        "updated_at": "2025-11-28T12:35:34.172494",
+        "last_commit": "36e01239fccc881d7efb312e5c949aeb878d462b",
+        "last_commit_time": "2025-10-27T05:03:13"
     }
 }

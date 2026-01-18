@@ -108,5 +108,15 @@
         "is_default_search": false,
         "run_without_argument": true,
         "added": 1763346976.5875154
+    },
+    "9a8e274b-f53f-4c35-9993-2242f5d9b490": {
+        "id": "9a8e274b-f53f-4c35-9993-2242f5d9b490",
+        "name": "gemini",
+        "keyword": "https://gemini.google.com/app",
+        "cmd": "https://gemini.google.com/app",
+        "icon": "/usr/share/icons/gemini.png",
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1763613308.7194388
     }
 }
